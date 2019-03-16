@@ -1,0 +1,17 @@
+.task {
+  float: left;
+  width: 60%;
+  padding: 30px;
+  border: 1px solid black;
+
+  .moment {
+    display: flex;
+    .ant-row:nth-of-type(1) {
+      margin-right: 10px;
+    }
+  }
+
+  .ant-btn-primary {
+    float: right;
+  }
+}

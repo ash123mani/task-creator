@@ -1,0 +1,17 @@
+.tasks-container {
+  margin: 1px;
+  .showTasks-container {
+    float: right;
+    width: 40%;
+    border: 1px solid black;
+    border-left: 0px;
+    // margin-top: 5px;
+  }
+
+  .all-button {
+    float: left;
+  }
+  .upcoming-button {
+    float: right;
+  }
+}
